@@ -6,7 +6,7 @@ This task involved modifying the default `App.js` to change the background, disp
 
 ## Screenshot
 
-![add screenshot](Screenshot (89).pgn)
+![app Screenshot](Screenshot (89).pgn)
 
 ## Task Description
 
